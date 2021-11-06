@@ -10,9 +10,7 @@
     <li>
       <a href="#Introduction">Introduction</a>
     </li>
-    <li><a href="#team-members">Team Members</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
+    
 </details>
 
 
