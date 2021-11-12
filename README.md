@@ -1,5 +1,5 @@
 # MINI PROJECT 
-## **QUIZE  PLATFORM**    (PERVENT CHEATING)
+## **QUIZZY  PLATFORM**    (PREVENT CHEATING)
 ### Group No
 ### Faculty Name - Ashutosh Mishra
 
@@ -8,20 +8,78 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#Introduction">Introduction</a>
+      <a href="#introduction">Introduction</a>
     </li>
-    
+    <li><a href="#team-members">Team Members</a></li>
+    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#installation">Installation</a></li>
+    <li><a href="#How-to-use">How to use</a></li>
+    <li><a href="#Features">Features</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
 </details>
 
 
 ## Introduction
-
-This Is Our Mini Project  Quize Plateform It Is designed to prevent copying from happening online exam 
+This project is aimed at building a web-based multiple-choice question examination system namely Quizzy. This web application is developed for educational purposes, allowing the users to prepare multiple-choice questions for different examinations conducted at the college or university level. Our quiz application mainly focuses on preventing users from cheating by using multi-factor authentication along with a camera proctoring feature allowed to the users 
 
 ## Team Members
-|   Enrollment No.  |   Name   | Github ID |
-|   --------------  |   ----   | -------- |
-|    IIT2019158  |  Aryan Dhakad  |  |
-|    IIT2019157  |  Avrial Gupta| [aviralgupta752] |
-|    IIT2019156  |  Bhupesh Sardana |  [ ] |    
-|    IIT2019200  |   Raj chandra  | [RAJCHANDRA ](https://github.com/RAJCHANDRA) |
+|   Enrollment No.  |   Name   |  
+|   --------------  |   ----   | 
+|    IIT2019158  |  Aryan Dhakad  |  
+|    IIT2019157  |  Aviral Gupta| 
+|    IIT2019156  |  Bhupesh Sardana |
+|    IIT2019160  |  Tejas Dutta    |
+|    IIT2019200  |   Raj chandra  |
+   |
+
+
+
+## Built With
+<ul>
+   <li>Languages used in this project: Javascript, HTML, CSS</li>
+   <li>Frameworks used: Reactjs, Nodejs, Expressjs</li>
+   <li>Frameworks used: Reactjs, Nodejs, Expressjs </li>
+  <li>Database used: Firebase</li>
+ 
+</ul>
+
+
+ ### Installation
+
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/Amanjeetk11/ivp.git
+   ```
+2. Change directory to main file
+   ```sh
+   cd model_codes
+   ```
+3. Install requirements.txt
+   ```sh
+   pip install requirements.txt 
+   ```
+4. Set the FLASK_APP system variable
+   ```sh
+   $ export FLASK_APP=app.py
+   ```
+5. Run Flask
+   ```sh
+   $ flask run
+   ```
+Visit http://127.0.0.1:5000 to see your app in action 
+
+<!-- Usage -->
+### How to use
+This application will also lead to an error-free, secure, reliable, and fast management system. It can assist the user to concentrate on their other activities rather than concentrating on the record-keeping. Thus it will help organizations in better utilization of resources.  This web application is developed for educational purposes, allowing the users to prepare multiple-choice questions for different examinations conducted at the college or university level. Our quiz application mainly focuses on preventing users from cheating by using multi-factor authentication along with a camera proctoring feature allowed to the users.
+This application will also lead to an error-free, secure, reliable, and fast management system. It can assist the user to concentrate on their other activities rather than concentrating on the record-keeping. Thus it will help organizations in better utilization of resources. 
+### Feature 
+<ul>
+        <li><Disabling Copy Past</a></li>
+        <li><Full</a></li>
+        <li><Better management>Better management</a></li>
+        <li><Connection to the database for better management of data>Connection to the database for better management of data</a></li>
+        <li><Better frontend management>Better frontend management</a></li>
+        <li><Better backend management>Better backend management</a></li>
+      </ul>
