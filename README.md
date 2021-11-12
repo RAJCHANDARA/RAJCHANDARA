@@ -56,9 +56,9 @@ This project is aimed at building a web-based multiple-choice question examinati
    cd semV
    ```
 
-5. Run Flask
+5. Run 
    ```sh
-  Runs the app in the development mode.
+   Runs the app in the development mode.
    ```
 Visit  http://localhost:3000 to see your app in action 
 
