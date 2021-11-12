@@ -31,7 +31,6 @@ This project is aimed at building a web-based multiple-choice question examinati
 |    IIT2019156  |  Bhupesh Sardana |
 |    IIT2019160  |  Tejas Dutta    |
 |    IIT2019200  |   Raj chandra  |
-   |
 
 
 
@@ -50,25 +49,18 @@ This project is aimed at building a web-based multiple-choice question examinati
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Amanjeetk11/ivp.git
+   git clone https://github.com/aryanDhakad/semV
    ```
 2. Change directory to main file
    ```sh
-   cd model_codes
+   cd semV
    ```
-3. Install requirements.txt
-   ```sh
-   pip install requirements.txt 
-   ```
-4. Set the FLASK_APP system variable
-   ```sh
-   $ export FLASK_APP=app.py
-   ```
+
 5. Run Flask
    ```sh
-   $ flask run
+  Runs the app in the development mode.
    ```
-Visit http://127.0.0.1:5000 to see your app in action 
+Visit  http://localhost:3000 to see your app in action 
 
 <!-- Usage -->
 ### How to use
