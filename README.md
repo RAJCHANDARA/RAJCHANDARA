@@ -76,10 +76,9 @@ This application will also lead to an error-free, secure, reliable, and fast man
 This application will also lead to an error-free, secure, reliable, and fast management system. It can assist the user to concentrate on their other activities rather than concentrating on the record-keeping. Thus it will help organizations in better utilization of resources. 
 ### Feature 
 <ul>
-        <li><Disabling Copy Past</a></li>
-        <li><Full</a></li>
-        <li><Better management>Better management</a></li>
-        <li><Connection to the database for better management of data>Connection to the database for better management of data</a></li>
-        <li><Better frontend management>Better frontend management</a></li>
-        <li><Better backend management>Better backend management</a></li>
+        <li><a>Disabling Copy Past</a></li>
+        <li><a>Full Screen</a></li>
+        <li><a>Proctored Video</a></li>
+        <li><a>Task Manager app, Possibly</a></li>
+        <li><a>Can't Open new tabs</a></li>
       </ul>
